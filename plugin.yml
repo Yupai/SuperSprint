@@ -1,0 +1,12 @@
+name: SuperSprint
+author: Yupai
+description: "Add more speed when the player is Sprinting"
+version: 1.0
+api: 2.0.0
+main: yupai\SuperSprint\Main
+permissions:
+  super.sprint:
+    default: false
+    description: "Add permission to players who will have Super Sprint"
+   
+   
