@@ -2,26 +2,26 @@
 
 ## Version: *1.1*
 
-## Type. 
+## Type
 PocketMine-MP Plugin.
 
-## Description.
+## Description
 Add more speed when the player is Sprinting. If player is sprinting the plugin adds speed effect and if player is sneaking the plugin removes only the speed effect.
 
-## Config.
+## Config
 In the config put the duration, amplifier and visible or not visible of the Speed Effect.
 
-## Permissions.
+## Permissions
 Add permission (**super.sprint**) to players who will have Super Sprint.
 
-## Tested.
+## Tested
 *SuperSprint* was tested in:
 
-* Genisys **1.1**
+* **Genisys 1.1**
 
-## Notes.
+## Notes
 Try it on other software and let me know please.
 
-## Info.
+## Info
 
 * Twitter: **@Yupai90**
