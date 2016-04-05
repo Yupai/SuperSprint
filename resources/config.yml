@@ -2,8 +2,6 @@
 #SuperSprint by Yupai config file.
 
 #Add permission (super.sprint) to players who will have Super Sprint.
-#For the duration, note the following information:
-#The seconds that you want in duration, multiply them by 20 and put them in duration, Example: 15 x 20 = 300.
 
 #Select the duration of the Speed Effect.
 Duration: 300
