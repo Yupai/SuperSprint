@@ -1,14 +1,14 @@
 # SuperSprint
 
-## Version: *1.1*
+<h3>Version: *1.1*<h3>
 
-## Type
+<h3>Type<h3>
 PocketMine-MP Plugin.
 
-## Description
+<h3>Description<h3>
 Add more speed when the player is Sprinting. If player is sprinting the plugin adds speed effect and if player is sneaking the plugin removes only the speed effect.
 
-## Config
+<h3>Config<h3>
 In the config put the duration, amplifier and visible or not visible of the Speed Effect.
 
 ## Permissions
