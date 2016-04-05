@@ -3,10 +3,10 @@
 
 #Add permission (super.sprint) to players who will have Super Sprint.
 
-#Select the duration of the Speed Effect.
-Duration: 300
+#Select time in seconds of Speed Effect.
+Duration: 15
 
-#Select the amplifier of the Speed Effect.
+#Select the amplifier of Speed Effect.
 Amplifier: 2
 
 #Visible or not visible (true or false).
