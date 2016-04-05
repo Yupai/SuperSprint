@@ -41,7 +41,7 @@ class Main extends PluginBase implements Listener {
 
            if($player->hasPermission("super.sprint") and $player->isSprinting()){
             $player->addEffect($speed);
-     }
+           }
     }
 
      public function onSneak(PlayerToggleSneakEvent $ev){
@@ -49,6 +49,6 @@ class Main extends PluginBase implements Listener {
            
            if($player->hasPermission("super.sprint") and $player->isSneaking()){
             $player->removeEffect(1);
+           }
      }
-    }
 }
