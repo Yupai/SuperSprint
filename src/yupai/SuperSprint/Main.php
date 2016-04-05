@@ -35,7 +35,7 @@ class Main extends PluginBase implements Listener {
 //Speed effect
 
         $speed = Effect::getEffect(Effect::SPEED);
-        $speed->setDuration($duration);
+        $speed->setDuration($duration * 20);
         $speed->setAmplifier($amplifier);
         $speed->setVisible($visible); 
 
