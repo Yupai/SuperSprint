@@ -8,6 +8,9 @@ PocketMine-MP Plugin.
 <h4>Description</h4>
 Add more speed when the player is Sprinting. If player is sprinting the plugin adds speed effect and if player is sneaking the plugin removes only the speed effect.
 
+<h4>Installation Instructions</h4>
+Download *SuperSprint_v1.1.phar*, put it in your puglins and restart your server.
+
 <h4>Config</h4>
 In the config put the duration, amplifier and visible or not visible of the Speed Effect.
 
