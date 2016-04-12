@@ -1,6 +1,6 @@
 <h2>SuperSprint</h2>
 
-<h4>Version: 1.1</h4>
+<h4>Version: 1.2</h4>
 
 <h4>Type</h4>
 PocketMine-MP Plugin.
