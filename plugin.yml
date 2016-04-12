@@ -2,7 +2,9 @@ name: SuperSprint
 author: Yupai
 description: "Add more speed when the player is Sprinting"
 version: 1.1
-api: 2.0.0
+api: 
+- 1.13.0
+- 2.0.0
 main: yupai\SuperSprint\Main
 permissions:
   super.sprint:
