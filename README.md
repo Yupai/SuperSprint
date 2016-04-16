@@ -22,7 +22,7 @@ Add permission (**super.sprint**) to players who will have Super Sprint.
 <h4>Tested</h4>
 *SuperSprint* was tested in:
 
-* **PocketMine-MP**
+* **PocketMine-MP 1.6**
 * **Genisys 1.1**
 
 <h4>Notes</h4>
