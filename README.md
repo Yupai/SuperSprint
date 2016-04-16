@@ -8,7 +8,7 @@
 PocketMine-MP Plugin.
 
 <h4>Description</h4>
-Add more speed when the player is Sprinting. If player is sprinting the plugin adds speed effect and if player is sneaking the plugin removes only the speed effect.
+Add more speed when the player is running. If player is running the plugin adds speed effect and if player is sneaking the plugin removes only the speed effect.
 
 <h4>Installation Instructions</h4>
 Download *SuperSprint_v1.2.phar*, put it in your puglins and restart your server.
@@ -22,6 +22,7 @@ Add permission (**super.sprint**) to players who will have Super Sprint.
 <h4>Tested</h4>
 *SuperSprint* was tested in:
 
+* **PocketMine-MP**
 * **Genisys 1.1**
 
 <h4>Notes</h4>
