@@ -1,5 +1,7 @@
 <h2>SuperSprint</h2>
 
+![My image](https://github.com/Yupai/SuperSprint/blob/master/SuperSprint.png)
+
 <h4>Version: 1.2</h4>
 
 <h4>Type</h4>
